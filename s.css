@@ -1,0 +1,83 @@
+*{
+    padding: 5px;
+    
+}
+h1{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
+.q1{
+    width: 50vh;
+    height: 47px;
+    background-color: rgba(255, 235, 205, 0.562);
+    margin: 0 auto;
+    border-radius: 7px;
+    overflow: hidden;
+    transition: .35s;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.295);
+}
+.q11{
+    width: 50vh;
+    height: 180px;
+    background-color: rgba(255, 235, 205, 0.562);
+    transition: .35s;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.295);
+}
+.q2{
+    width: 50vh;
+    height: 47px;
+    background-color: rgba(255, 235, 205, 0.562);
+    margin: 0 auto;
+    border-radius: 7px;
+    overflow: hidden;
+    transition: .35s;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.295);
+}
+.q22{
+    width: 50vh;
+    height: 180px;
+    background-color: rgba(255, 235, 205, 0.562);
+    transition: .35s;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.295);
+}
+.q3{
+    width: 50vh;
+    height: 47px;
+    background-color: rgba(255, 235, 205, 0.562);
+    margin: 0 auto;
+    border-radius: 7px;
+    overflow: hidden;
+    transition: .35s;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.295);
+}
+.q33{
+    width: 50vh;
+    height: 180px;
+    background-color: rgba(255, 235, 205, 0.562);
+    transition: .35s;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.295);
+}
+
+label{
+    font: 42px "Roboto", sans-serif;
+}
+button{
+    width: 50px;
+    height: 40px;
+    font-size: 25px;
+    float: right;
+    border: 0px;
+    background-color: rgba(219, 199, 170, 0.562);
+    cursor: pointer;
+}
+.sep{
+    width: 300px;
+    height: 2px;
+    border-radius: 20px;
+    background-color: black;
+    margin: 5px auto;
+    padding: 0px;
+}
+.line{
+    height: 10px;
+}
